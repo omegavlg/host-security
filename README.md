@@ -13,6 +13,23 @@
 
 ### Ответ:
 
+Устанавливаем eCryptfs
+```
+dnf install ecryptfs-utils -y
+```
+<img src = "img/01.png" width = 100%>
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## Задание 2
 
