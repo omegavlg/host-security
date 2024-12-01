@@ -37,9 +37,8 @@ exit
 ```
 <img src = "img/03.png" width = 100%>
 
-Заходим в домашний каталог пользователя:
+Заходим в домашний каталог пользователя и видим... "Access-Your-Private-Data.desktop"
 <img src = "img/04.png" width = 100%>
-
 
 ---
 ## Задание 2
