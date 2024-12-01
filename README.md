@@ -27,7 +27,15 @@ adduser --encrypt-home cryptouser
 ```
 su -  cryptouser
 ```
-
+Создаем файл, проверяем, что он создался и выходим из под этой учетной записи.
+```
+touch 1
+```
+ll
+```
+exit
+```
+<img src = "img/03.png" width = 100%>
 
 
 
