@@ -37,7 +37,8 @@ exit
 ```
 <img src = "img/03.png" width = 100%>
 
-
+Заходим в домашний каталог пользователя:
+<img src = "img/04.png" width = 100%>
 
 
 ---
